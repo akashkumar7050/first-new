@@ -6,3 +6,4 @@ my name is akash kumar
 my friend name is satish 
 saving the text is most important thing in the coding sector 
 you should save your code before staging in git 
+git problem fixed 
