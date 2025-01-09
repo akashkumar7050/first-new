@@ -8,3 +8,8 @@ sixth bug fixed
 what is your name 
 how are you now 
 are you fine now or not 
+my name is akash kumar 
+my friend name is satish 
+saving the text is most important thing in the coding sector 
+you should save your code before staging in git 
+git problem fixed 
