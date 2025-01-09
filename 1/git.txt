@@ -2,3 +2,5 @@ hello
 a bug fixed
 another bug fixed 
 third bug fixed 
+my name is akash kumar 
+my friend name is satish 
